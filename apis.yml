@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.amdoren.com/currency-api/
 common:
+  - type: DomainSecurity
+    url: security/amdoren-domain-security.yml
   - type: Website
     url: https://www.amdoren.com/currency-api/
   - type: PublicAPIsListing
