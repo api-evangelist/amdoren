@@ -35,11 +35,11 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Currency Exchange
   - Public APIs
+  - Exchange Rates
 apis:
   - name: Amdoren
     description: "Free currency API with over 150 currencies"
     humanURL: https://www.amdoren.com/currency-api/
-    baseURL: https://www.amdoren.com/currency-api/
     tags:
       - Currency Exchange
     properties:
