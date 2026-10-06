@@ -27,7 +27,7 @@ description: "Free currency API with over 150 currencies"
 url: https://www.amdoren.com/currency-api/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Currency Exchange"
 x-tier: 3
@@ -46,6 +46,8 @@ apis:
       - type: Documentation
         url: https://www.amdoren.com/currency-api/
 common:
+  - url: https://amdoren.com/blog/
+    type: Blog
   - type: DomainSecurity
     url: security/amdoren-domain-security.yml
   - type: Website
